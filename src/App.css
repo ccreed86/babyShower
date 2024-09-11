@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+.main {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
 .logo {
   padding: 1.5em;
   will-change: filter;
